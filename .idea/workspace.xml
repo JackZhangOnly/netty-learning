@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc73bf5-1754-40fa-a29a-dbc18abc8645" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/BufferTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/GetChannel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/TestBlocking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/TestBlocking2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/TestBuffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/TestChannel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jackzhang/nio/TestNonBlockingNio.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/HeartBeat.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/HeartBeat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientBootstrap$1.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientBootstrap$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientBootstrap.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientBootstrap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyClientHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyIdleStateClientHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyIdleStateClientHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyIdleStateServerHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyIdleStateServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyServerBootstrap$1.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyServerBootstrap$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyServerBootstrap.class" afterPath="$PROJECT_DIR$/target/classes/com/jackzhang/netty/heartbeat/NettyServerBootstrap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty-learning.iml" afterPath="$PROJECT_DIR$/netty-learning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="dcc73bf5-1754-40fa-a29a-dbc18abc8645" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -862,7 +838,7 @@
       <workItem from="1508589378777" duration="708000" />
       <workItem from="1508654888070" duration="3207000" />
       <workItem from="1513685887504" duration="315000" />
-      <workItem from="1513686214426" duration="1187000" />
+      <workItem from="1513686214426" duration="1445000" />
     </task>
     <servers />
   </component>
@@ -890,11 +866,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16251000" />
+    <option name="totallyTimeSpent" value="16509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1934" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -905,10 +881,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37318435" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37318435" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31323373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
